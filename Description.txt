@@ -1,0 +1,4 @@
+Builder design pattern is a creational design pattern used to create and configure objects.
+builder design pattern used in one or both of these scenarios :
+when we have too many arguments to send in the constructor and it is hard to maintain the order
+when we do not want to send all parameters in object initialization
